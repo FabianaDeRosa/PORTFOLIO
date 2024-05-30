@@ -146,17 +146,21 @@
             article{
                 grid-template-columns: 35rem;
                 h2{
-                font-size: 5rem;
-                margin-bottom: 0;
+                font-size: 6.8rem;
+                width: 70%;
+                line-height: 5rem;
+                margin-bottom: 1.4rem;
                 text-align: center;
                 font-weight: 700;
                 font-family: 'CactusJack';
             }
             h3{
                 font-size: 1.5rem;
+              
             }
             p{
                 font-size: 1.5rem;
+                width: 80%;
             }
 
             div{

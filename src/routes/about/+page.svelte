@@ -51,13 +51,16 @@
 			height: 3rem;
         }
 
-        button{
+        a {
+            text-decoration: none;
+            color: map-get($colors, black );
+            button{
             border: 1px solid black;
             background-color: transparent;
             cursor: pointer;
             padding: 1rem;
             font-size: 1.1rem;
-            font-family: "Reddit";
+            font-family: 'Mono',"DM Mono", monospace;
             
             &:hover{
                 background-color: black;
@@ -68,6 +71,8 @@
                 padding-right: .7em;
             }
         }
+        }
+        
 
         p{
             margin-bottom: 4rem;
@@ -93,9 +98,6 @@
         padding-bottom: 0;
 
         a{
-            &:visited{
-                color: map-get($colors, secondary );
-            }
             &:first-of-type{
                 padding-right: 1em;
             }

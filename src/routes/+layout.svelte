@@ -13,8 +13,8 @@
 	<main>
 	  <slot />
 	</main>
-
-	<p>Developed by Fabiana De Rosa</p>
+    
+	<a href="/portfolio">Developed by Fabiana De Rosa - click for more</a>
 	
 </div>
   
@@ -31,7 +31,8 @@
 		max-width: 1300px; 
 		margin: 0 auto;
 
-		p{	
+		a{	
+			
 			grid-column: 1 / 3;
 			color: lightgray;
 			justify-self: center;
@@ -39,6 +40,7 @@
 			padding-top: .7rem;
 			padding-bottom: .4rem;
 			font-size: .7rem;
+			text-decoration: none;
 		}
 		
 	
@@ -50,7 +52,7 @@
 			grid-template-columns: 1fr; 
 			
 
-		  p{	
+		  a{	
 			text-align: center;
 			grid-column: 1;
 		}
