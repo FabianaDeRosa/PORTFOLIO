@@ -15,8 +15,8 @@
         <Playground/>
     </div>
     <div class="logo"></div>
-    <p>Hi! I'm <span>Fabiana De Rosa</span>, a junior creative developer born in Sorrento, Italy. My enthusiasm for both technology and art fueled my decision to pursue a degree in Interaction Design and Media Arts. This passion has not only shaped my academic journey but has also inspired me to embark on travels to explore diverse exhibitions and cultures around the world. I like to see each project as an opportunity to blend technical expertise with artistic expression, from sketching concepts to crafting unique digital experiences that captivate and inspire.</p>
-    <a download="./assets/cv.png" href="./assets/cv.png"><button><i class="fa-solid fa-download"></i>CV</button></a>
+    <p>Hi! I'm <span>Fabiana De Rosa</span>, a junior creative developer born in Sorrento, Italy. My enthusiasm for both technology and art fueled my decision to pursue a degree in Interaction Design and Media Arts. This passion has not only shaped my academic journey but has also inspired me to embark on travels to explore diverse exhibitions and cultures around the world. I like to see each project as an opportunity to blend technical expertise with artistic expression, from sketching concepts to crafting unique digital experiences that may captivate and inspire.</p>
+    <a download="./assets/FabianaDeRosa_cv.pdf" href="./assets/FabianaDeRosa_cv.pdf"><button><i class="fa-solid fa-download"></i>CV</button></a>
     <div class="contacts">
         <i class="fa-brands fa-linkedin fa-xl"></i>
         <a href="https://www.linkedin.com/in/derosafabiana/" target="_blank">fabianaderosa</a>

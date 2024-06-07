@@ -140,7 +140,7 @@
 @media screen and (max-width: 600px) {
 
     #single-item-wrapper{
-        grid-template-rows: 1fr ;
+        grid-template-rows: 1fr;
 
         #single-item{
             article{

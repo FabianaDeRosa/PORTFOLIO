@@ -34,10 +34,10 @@
 		a{	
 			
 			grid-column: 1 / 3;
-			color: lightgray;
+			color: gray;
 			justify-self: center;
 			font-weight: 100;
-			padding-top: .7rem;
+			padding-top: 1.2rem;
 			padding-bottom: .4rem;
 			font-size: .7rem;
 			text-decoration: none;

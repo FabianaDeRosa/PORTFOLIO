@@ -140,7 +140,7 @@
         "link":"",
         "link_2":"",
         "descr":"",
-        "tools":["../assets/tools_logos/maya.png"]
+        "tools":["../assets/tools_logos/maya.png","../assets/tools_logos/spline.png"]
     },
     {
         "id": 12,
@@ -209,6 +209,19 @@
     },
     {
         "id": 17,
+        "title": "FuturCampari",
+        "sub":"Web app and Totem for Campari, celebrating the collaboration with Futurist artist Fortunato Depero. Click on the link below to see the animated Style Guide.",
+        "keyword": "Graphic Design",
+        "img":["../assets/digitalArt/campari.png"],
+        "img_2":["../assets/digitalArt/Guide.png"],
+        "video":[],
+        "link":"",
+        "link_2":"https://www.figma.com/proto/SDz6yepts7F2uqgHE6YM4w/FUTURCAMPARI?node-id=0-1&t=OLelC1ktfyUWmPvh-1",
+        "descr":"",
+        "tools":["../assets/tools_logos/figma.png","../assets/tools_logos/illustrator.png", "../assets/tools_logos/photoshop.png"]
+    },
+    {
+        "id": 18,
         "title": "Digital Art",
         "sub":"A collection of vector art created with Creative Cloud.",
         "keyword": "Digital Art",
@@ -220,4 +233,5 @@
         "descr":"Vector art works I made mainly using Illustrator and Photoshop. Sketched first on Procreate app on iPad.",
         "tools":["../assets/tools_logos/illustrator.png", "../assets/tools_logos/photoshop.png"]
     }
+    
 ]
